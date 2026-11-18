@@ -1,0 +1,1 @@
+COPY scripts/query_idps.py /query_idps.py

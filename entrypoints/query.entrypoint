@@ -1,0 +1,1 @@
+ENTRYPOINT ["/opt/conda/envs/idps-loader/bin/python", "/query_idps.py"]

@@ -1,0 +1,2 @@
+FROM mambaorg/micromamba:2-ubuntu22.04
+USER root
